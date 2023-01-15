@@ -1,5 +1,3 @@
-package Tareas;
-
 abstract class multivers{
     multivers(){}
     abstract void formapelea();
